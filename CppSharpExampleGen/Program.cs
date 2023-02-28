@@ -4,7 +4,6 @@ using CppSharp.Generators;
 using CppSharp.Passes;
 
 ConsoleDriver.Run(new ExampleLibrary());
-Console.ReadLine();
 
 
 public class ExampleLibrary : ILibrary

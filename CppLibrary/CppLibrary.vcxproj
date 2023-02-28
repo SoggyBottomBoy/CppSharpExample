@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Example.h" />
+    <ClInclude Include="Globals.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Example.cpp" />

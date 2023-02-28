@@ -1,5 +1,7 @@
+#include "Globals.h"
+
 #pragma once
-class Example
+class DLL_API Example
 {
 public:
 	Example(int value);
